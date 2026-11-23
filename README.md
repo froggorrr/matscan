@@ -1,1 +1,4 @@
-[![Architecture ](https://gitdiagram.com/froggorrr/matscan/diagram.png)](https://gitdiagram.com/froggorrr/matscan?utm_source=readme&utm_medium=picture)
+![Diagram](diagram.png)
+
+
+[![Architecture diagram of froggorrr/matscan](https://gitdiagram.com/froggorrr/matscan/diagram.png)](https://gitdiagram.com/froggorrr/matscan?utm_source=readme&utm_medium=picture)
